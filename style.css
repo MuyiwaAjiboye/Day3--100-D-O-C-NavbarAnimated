@@ -29,11 +29,11 @@ color: transparent;
     transition: 0.25s;
 }
 
-/* .navl:hover::before{
+.navl:hover::before{
     -webkit-text-stroke: 1px #fffafa;
      transform: translate(12px, -12px);
     color: #f396ac;
-} */
+}
 
 .navl:hover::after{
     -webkit-text-stroke: 1px #fffafa;
